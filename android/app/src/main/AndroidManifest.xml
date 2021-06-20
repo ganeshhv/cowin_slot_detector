@@ -1,5 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.cowin_slot_detector">
+    <uses-permission android:name="android.permission.INTERNET"/>
    <application
         android:label="cowin_slot_detector"
         android:icon="@mipmap/ic_launcher">
